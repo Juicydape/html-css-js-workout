@@ -9,7 +9,7 @@ As you complete each challenge, you'll be able to submit your code for review an
 
 ### **Are you here to complete the task?**
 
-`I do nto sea eny typo!`
+`I do not see any typo!`
 
 
 
