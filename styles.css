@@ -16,6 +16,9 @@ html {
 }
 
 .arena {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border: 1px dotted olive;
     height: 80vh;
 }
