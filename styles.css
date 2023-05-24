@@ -1,0 +1,21 @@
+html {
+   font-family: 'Inter', sans-serif;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border: 40px solid #F97316;
+}
+
+.header {
+    text-align: center;
+}
+
+.arena {
+    border: 1px dotted olive;
+    height: 80vh;
+}
